@@ -1,0 +1,16 @@
+Version 1.90. Changelog:
+
+> Updated source code to v8.7.4.
+> Turn any short audio file into a custom notification sound for any chat.
+> Disable notifications from any chat for a custom period of time.
+> Turn off sound without disabling notifications.
+> Quickly set up Auto-Delete and add a custom duration.
+> Watch videos in the redesigned picture-in-picture window.
+> See which forwarded messages are replies.
+> Use powerful web-based interfaces for bots.
+> Tap and hold mention option to mention by id.
+> Option to show â€™Downloadsâ€™ button always in main screen.
+> Option to clear all pending downloads.
+> Now voice messages are also shown in player alert.
+> Option to hide reactions buttons in messages.
+> Bug fixes and other minor improvements
